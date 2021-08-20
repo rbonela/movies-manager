@@ -3,6 +3,7 @@
 Projeto Angular contendo um sistema de gerenciamento de filmes, com a possibilidade de cadastros, edições, listagem e visualização dos filmes.
 
 --- Projeto desenvolvido durante o bootcamp Santander Fullstack Developer da Digital Inovation One ---
+
 --- Projeto gerado com [Angular CLI](https://github.com/angular/angular-cli) version 12.2.1. ---
 
 ## Instalação
