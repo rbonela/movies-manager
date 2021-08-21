@@ -12,7 +12,7 @@ import { AlertaComponent } from 'src/app/shared/components/alerta/alerta.compone
   styleUrls: ['./visualizar-filmes.component.css']
 })
 export class VisualizarFilmesComponent implements OnInit {
-  readonly semFoto = 'https://www.termoparts.com.br/wp-content/uploads/2017/10/no-image.jpg';
+  readonly semFoto = 'https://cdn.neemo.com.br/uploads/settings_webdelivery/logo/2427/no-image.png';
   filme!: Filme;
   id!: number;
 
